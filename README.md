@@ -1,4 +1,4 @@
-**1**
+#1
 ![1 Size of long](https://user-images.githubusercontent.com/81718623/191780353-78d6d078-ec14-46f3-88df-e58df4da06de.jpg)
 Second Question
 ![2 Data Type](https://user-images.githubusercontent.com/81718623/191780488-ea94deb7-bd88-4808-9065-a405c2c42214.jpg)
