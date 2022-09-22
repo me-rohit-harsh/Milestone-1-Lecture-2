@@ -16,11 +16,9 @@
 ![8 Multiple inputs](https://user-images.githubusercontent.com/81718623/191780803-62d41a73-18f9-45fc-a1a2-f3a511e103db.jpg)
 # 9
 ![9 Integer and String](https://user-images.githubusercontent.com/81718623/191780866-0ffb5e6e-9f33-44e7-81df-c44246dbb824.jpg)
-# 10
-## Code :Average Marks
+# 10 ## Code:Average Marks
 import java.util.Scanner;
 public class Solution {
-
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
   		String Name= scan.next();
@@ -35,4 +33,11 @@ public class Solution {
 
 # 11
 ![11 Error in code](https://user-images.githubusercontent.com/81718623/191780923-ddec99cc-91b7-416a-9f17-403533dd6397.jpg)
+# 12
+![12 FInd the output](https://user-images.githubusercontent.com/81718623/191782641-f3fab815-8158-4764-b87f-f9b96e937530.jpg)
+# 13
+![13 Predict the output](https://user-images.githubusercontent.com/81718623/191782674-10fa51f8-ba0f-4ef8-bed2-6aad070de2e0.jpg)
+# 14
+![14 Predict the output](https://user-images.githubusercontent.com/81718623/191782719-19dd1340-7614-41f4-81e1-424bca95f477.jpg)
+# Give Star If you find this helpful:)
 
