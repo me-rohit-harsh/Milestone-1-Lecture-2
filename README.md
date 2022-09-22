@@ -16,7 +16,9 @@
 ![8 Multiple inputs](https://user-images.githubusercontent.com/81718623/191780803-62d41a73-18f9-45fc-a1a2-f3a511e103db.jpg)
 # 9
 ![9 Integer and String](https://user-images.githubusercontent.com/81718623/191780866-0ffb5e6e-9f33-44e7-81df-c44246dbb824.jpg)
-# 10 ## Code:Average Marks
+# 10
+### Code:Average Marks
+
 import java.util.Scanner;
 public class Solution {
 	public static void main(String[] args) {
