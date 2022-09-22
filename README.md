@@ -1,21 +1,21 @@
 # 1. ***Size of long***
-![1 Size of long](https://user-images.githubusercontent.com/81718623/191780353-78d6d078-ec14-46f3-88df-e58df4da06de.jpg)
+![1 Size of long](https://user-images.githubusercontent.com/81718623/191794357-3dd33489-6f41-416d-b9e7-aa9cba2efcd0.jpg)
 # 2. ***Datatype***
-![2 Data Type](https://user-images.githubusercontent.com/81718623/191780488-ea94deb7-bd88-4808-9065-a405c2c42214.jpg)
+![2 Data Type](https://user-images.githubusercontent.com/81718623/191794395-08f7e0a8-d77d-425a-8f4c-9dc5fed69d12.jpg)
 # 3. ***Boolean Variable***
-![3 Boolean Variable](https://user-images.githubusercontent.com/81718623/191780526-3197de1e-1610-45c2-953f-e41aefb0a19d.jpg)
+![3 Boolean Variable](https://user-images.githubusercontent.com/81718623/191794447-7ae3d679-c68b-4e43-9bf8-31fc48dc6973.jpg)
 # 4. ***Valid Variable Name***
-![4 Valid Variable Name](https://user-images.githubusercontent.com/81718623/191780558-7ea7e24c-bf31-4a5e-8e11-04e5ebe98c2f.jpg)
+![4 Valid Variable Name](https://user-images.githubusercontent.com/81718623/191794491-88dda8fa-6535-4284-9ef3-66b1606f40f8.jpg)
 # 5. ***Uninitialized Local Variable***
-![5 Uninitialized Local Variable](https://user-images.githubusercontent.com/81718623/191780604-275c975b-be51-42f7-8811-93d7677a78a8.jpg)
+![5 Uninitialized Local Variable](https://user-images.githubusercontent.com/81718623/191794531-10eb34bf-5706-4379-b4cc-1b0118a6cf8c.jpg)
 # 6.***Predict the output***
-![6 Predict the output](https://user-images.githubusercontent.com/81718623/191780657-ddef312f-635c-4ca1-90fa-6cb36e8966bc.jpg)
+![6 Predict the output](https://user-images.githubusercontent.com/81718623/191794577-afe30776-7b5e-41be-b7ed-3d0581cdf3eb.jpg)
 # 7.***String output***
-![7 String output](https://user-images.githubusercontent.com/81718623/191780750-154b6a9c-fe6c-4350-92bc-9137acaf4bdd.jpg)
+![7 String output](https://user-images.githubusercontent.com/81718623/191794599-466a8c1a-289d-4d74-ba45-50401974fb17.jpg)
 # 8. ***Multiple inputs***
-![8 Multiple inputs](https://user-images.githubusercontent.com/81718623/191780803-62d41a73-18f9-45fc-a1a2-f3a511e103db.jpg)
+![8 Multiple inputs](https://user-images.githubusercontent.com/81718623/191794632-8d034053-1d06-4042-b9f1-65ac6b746f78.jpg)
 # 9. ***Integer and String***
-![9 Integer and String](https://user-images.githubusercontent.com/81718623/191780866-0ffb5e6e-9f33-44e7-81df-c44246dbb824.jpg)
+![9 Integer and String](https://user-images.githubusercontent.com/81718623/191794656-4e6db5d5-d117-4670-8849-82089aa01cd0.jpg)
 # 10. ***Average Marks***
 ### Code:Average Marks
 
@@ -35,12 +35,12 @@ public class Solution {
 }
 
 # 11. ***Error in code***
-![11 Error in code](https://user-images.githubusercontent.com/81718623/191780923-ddec99cc-91b7-416a-9f17-403533dd6397.jpg)
+![11 Error in code](https://user-images.githubusercontent.com/81718623/191794704-cb12e06a-e804-4883-92fe-c9daff1723c2.jpg)
 # 12. ***FInd the output***
-![12 FInd the output](https://user-images.githubusercontent.com/81718623/191782641-f3fab815-8158-4764-b87f-f9b96e937530.jpg)
+![12 FInd the output](https://user-images.githubusercontent.com/81718623/191794729-8a3d42d8-a31f-4fa7-aa91-193d8674865f.jpg)
 # 13. ***Predict the output***
-![13 Predict the output](https://user-images.githubusercontent.com/81718623/191782674-10fa51f8-ba0f-4ef8-bed2-6aad070de2e0.jpg)
+![13 Predict the output](https://user-images.githubusercontent.com/81718623/191794756-00f41df7-c6f0-4230-9465-d05853707f95.jpg)
 # 14. ***Predict the output***
-![14 Predict the output](https://user-images.githubusercontent.com/81718623/191782719-19dd1340-7614-41f4-81e1-424bca95f477.jpg)
+![14 Predict the output](https://user-images.githubusercontent.com/81718623/191794783-0da3f55d-5923-430b-8b0a-928bb00fbea2.jpg)
 # ***Give Star If you find this helpful:)***
 
