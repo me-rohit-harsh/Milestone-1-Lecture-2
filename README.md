@@ -1,3 +1,4 @@
+# ***Give Star If you find this helpful:)***
 # 1. ***Size of long***
 ![1 Size of long](https://user-images.githubusercontent.com/81718623/191794357-3dd33489-6f41-416d-b9e7-aa9cba2efcd0.jpg)
 # 2. ***Datatype***
