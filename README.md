@@ -1,4 +1,4 @@
-# ***🌟Give Star If you find this helpful:)🌟***
+# ***🌟Give Star If you find this helpful :)🌟***
 # 1. ***Size of long***
 ![1 Size of long](https://user-images.githubusercontent.com/81718623/191794357-3dd33489-6f41-416d-b9e7-aa9cba2efcd0.jpg)
 # 2. ***Datatype***
@@ -43,5 +43,5 @@ public class Solution {
 ![13 Predict the output](https://user-images.githubusercontent.com/81718623/191794756-00f41df7-c6f0-4230-9465-d05853707f95.jpg)
 # 14. ***Predict the output***
 ![14 Predict the output](https://user-images.githubusercontent.com/81718623/191794783-0da3f55d-5923-430b-8b0a-928bb00fbea2.jpg)
-# ***🌟Give Star If you find this helpful:)🌟***
+# ***🌟Give Star If you find this helpful :)🌟***
 
